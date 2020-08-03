@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images - 2020-07-14T001328.554.jpg</filename>
+	<path>C:\Users\FYP\Tensorflow\workspace\training_demo\images\images - 2020-07-14T001328.554.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>188</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>12</ymin>
+			<xmax>171</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

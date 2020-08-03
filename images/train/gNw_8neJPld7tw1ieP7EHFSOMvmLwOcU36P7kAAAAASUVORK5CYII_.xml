@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>gNw_8neJPld7tw1ieP7EHFSOMvmLwOcU36P7kAAAAASUVORK5CYII_.png</filename>
+	<path>C:\Users\FYP\Tensorflow\workspace\training_demo\images\gNw_8neJPld7tw1ieP7EHFSOMvmLwOcU36P7kAAAAASUVORK5CYII_.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>31</ymin>
+			<xmax>184</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

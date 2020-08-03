@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2Q__ (4).jpg</filename>
+	<path>C:\Users\FYP\Tensorflow\workspace\training_demo\images\2Q__ (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>307</width>
+		<height>164</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>58</ymin>
+			<xmax>277</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
